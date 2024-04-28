@@ -1,5 +1,7 @@
 # Stream_Processing_Algorithm
 The architechture of our system:
+
+
 ![alt text](image.png)
 
 We are getting the data from Faker library. We are taking fake weather and random temperature in the range 10-110 degrees.
